@@ -24,7 +24,7 @@ It allows users to browse products, filter by category, and sort by price.
 
 ## 🌐 Deployed Link
 
-👉 [Live Demo]()
+👉 [Live Demo](https://product-listing-umber.vercel.app/)
 
 ---
 
@@ -32,5 +32,5 @@ It allows users to browse products, filter by category, and sort by price.
 
 1. Clone the repository
    ```bash
-   git clone
+   git clone https://github.com/RahulkrWD/Product-Listing
    ```
